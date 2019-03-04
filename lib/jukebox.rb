@@ -64,7 +64,7 @@ def play(songs)
   elsif songs[input.to_i-1]
     puts "Playing #{songs[input.to_i-1]}"
 
-  elsif puts "Invalid input, please try again"
+  else puts "Invalid input, please try again"
 
   end
 end
