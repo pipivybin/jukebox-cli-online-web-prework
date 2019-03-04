@@ -43,7 +43,7 @@ end
 
 def play(songs)
 
-  arr = (1..9).to_a
+  # arr = (1..9).to_a
 
   puts "Please enter a song name or number:"
 
